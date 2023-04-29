@@ -23,13 +23,13 @@ public class GerandoParcelasMensais {
 					parcela + " vencimento em: " + new SimpleDateFormat("dd/MM/yyyy").format(calendar.getTime()));
 		}
 		
-		
+//		
 //		for(int fim = 1; fim <= 7; fim++) {
 //			calendar.add(Calendar.DAY_OF_MONTH, 7);
 //			
 ////			System.out.println("Acesso negado!");
 //		}
-//		System.out.println("Acesso negadoooooooooooooooooooo!");
+		System.out.println("Acesso negadoooooooooooooooooooo!");
 	}
 
 }
